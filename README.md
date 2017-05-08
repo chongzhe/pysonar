@@ -1,3 +1,5 @@
+[![Build Status](https://staging.insight.io/repoBadge/github.com/apache/hadoop-common)](https://travis-ci.org/tesseract-ocr/tesseract)
+
 ### PySonar2 - a type inferencer and indexer for Python
 
 PySonar2 is a type inferencer and indexer for Python, which performs
