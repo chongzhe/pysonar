@@ -1,4 +1,4 @@
-[![Build Status](https://staging.insight.io/repoBadge/github.com/apache/hadoop-common)](https://travis-ci.org/tesseract-ocr/tesseract)
+[![Insight.io](https://www.insight.io/repoBadge/github.com/tesseract-ocr/tesseract)](https://insight.io/github.com/tesseract-ocr/tesseract)
 
 ### PySonar2 - a type inferencer and indexer for Python
 
