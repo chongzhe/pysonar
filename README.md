@@ -1,4 +1,4 @@
-[![Insight.io](https://www.insight.io/repoBadge/github.com/tesseract-ocr/tesseract)](https://insight.io/github.com/tesseract-ocr/tesseract)
+[![Insight.io](https://www.insight.io/repoBadge/github.com/hs-web/hsweb-framework)](https://insight.io/github.com/hs-web/hsweb-framework/tree/3.0)
 
 ### PySonar2 - a type inferencer and indexer for Python
 
