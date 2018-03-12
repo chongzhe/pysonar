@@ -30,7 +30,8 @@ class MetricsService : public MetricsServiceBase {
 
   
   static const std::string& GetClientID();
-
+  static const std::string recording;
+  static const std::string active;
  private:
   MetricsService();
   virtual ~MetricsService();
